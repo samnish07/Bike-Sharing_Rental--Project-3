@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
-pil
+scikit-learn==1.17.0
+Pillow
